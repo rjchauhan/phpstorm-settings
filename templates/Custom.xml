@@ -1,0 +1,10 @@
+<templateSet group="Custom">
+  <template name="modal" value="@component('components.modal', ['id' =&gt; '$ID$', 'title' =&gt; '$TITLE$'])&#10;    $END$&#10;&#10;    @slot('footer')&#10;        &#10;    @endslot&#10;@endcomponent" description="Modal View Component" toReformat="false" toShortenFQNames="true">
+    <variable name="ID" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TITLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
