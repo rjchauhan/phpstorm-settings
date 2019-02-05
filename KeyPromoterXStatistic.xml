@@ -33,6 +33,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Restore Windows">
+        <Item>
+          <IdeaActionID>HideAllWindows</IdeaActionID>
+          <ShortCut>'⇧⌘F12'</ShortCut>
+          <Description>Restore Windows</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Resume Program">
         <Item>
           <IdeaActionID>Resume</IdeaActionID>
