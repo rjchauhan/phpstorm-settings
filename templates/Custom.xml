@@ -7,4 +7,11 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="clog" value="console.log('yeah');" description="Console log for javascript" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="ECMAScript6" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="Vue" value="true" />
+    </context>
+  </template>
 </templateSet>
