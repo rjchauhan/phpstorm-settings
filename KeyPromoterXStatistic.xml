@@ -54,7 +54,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'⌥⌘Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>76</Count>
+          <Count>77</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run...">
@@ -86,7 +86,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>88</Count>
+          <Count>91</Count>
         </Item>
       </Statistic>
     </option>
