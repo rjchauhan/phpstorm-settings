@@ -70,7 +70,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'server.php'</Description>
-          <Count>35</Count>
+          <Count>36</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
@@ -86,7 +86,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>96</Count>
+          <Count>100</Count>
         </Item>
       </Statistic>
     </option>
