@@ -19,4 +19,7 @@
       </list>
     </option>
   </component>
+  <component name="VcsApplicationSettings">
+    <option name="SHOW_LST_WORD_DIFFERENCES" value="false" />
+  </component>
 </application>
