@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="sidebar.blade.php" type="AUTO_DETECTED" />
       <mapping pattern="data" type="PLAIN_TEXT" />
       <mapping pattern="partials" type="PLAIN_TEXT" />
       <mapping ext="mp" type="PLAIN_TEXT" />
