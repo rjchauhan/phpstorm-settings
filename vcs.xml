@@ -1,4 +1,7 @@
 <application>
+  <component name="DiffApplicationSettings">
+    <option name="SHOW_LST_WORD_DIFFERENCES" value="false" />
+  </component>
   <component name="GitRememberedInputs">
     <option name="visitedUrls">
       <list>
