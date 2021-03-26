@@ -1,0 +1,12 @@
+<application>
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="18" />
+    <option name="LINE_SPACING" value="1.8" />
+  </component>
+  <component name="EditorSettings">
+    <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
+    <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
+    <option name="SHOW_BREADCRUMBS" value="false" />
+    <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
+  </component>
+</application>
