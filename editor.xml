@@ -9,4 +9,8 @@
     <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
   </component>
+  <component name="InlayHintsSettings">
+    <option name="enabled" value="false" />
+    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
+  </component>
 </application>
