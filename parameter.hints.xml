@@ -1,6 +1,7 @@
 <application>
   <component name="ParameterNameHintsSettings">
     <disabledLanguages>
+      <language id="JavaScript" />
       <language id="PHP" />
     </disabledLanguages>
   </component>
