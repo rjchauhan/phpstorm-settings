@@ -1,0 +1,12 @@
+<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="shift ctrl b" />
+  </action>
+  <action id="Git.Merge">
+    <keyboard-shortcut first-keystroke="shift ctrl m" />
+  </action>
+  <action id="GotoTypeDeclaration">
+    <keyboard-shortcut first-keystroke="shift meta b" />
+    <mouse-shortcut keystroke="shift meta button1" />
+  </action>
+</keymap>
